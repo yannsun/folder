@@ -1,5 +1,11 @@
 # folder
 
+## 技术栈
+
+- [gin](https://github.com/gin-gonic/gin)
+- [sqlx](http://jmoiron.github.io/sqlx/)
+- [redigo](https://github.com/gomodule/redigo)
+
 ## 协议支持
 
 - s3协议
